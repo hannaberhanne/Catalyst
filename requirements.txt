@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.21
+scikit-learn>=1.6,<1.8
+joblib>=1.4
+matplotlib>=3.5
+seaborn>=0.13
+shap>=0.49
